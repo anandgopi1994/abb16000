@@ -1,0 +1,6 @@
+<package>
+  <description brief="IRB1600_X-145_m2004_rev0_01">IRB1600_X-145_m2004_rev0_01</description>
+  <depend package="gazebo" />
+  <author>me</author>
+  <license>BSD</license>
+</package>
